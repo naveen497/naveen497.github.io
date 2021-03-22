@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
-name: Naveen Chiluka
+title: Naveen Chiluka
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+sass:
+  sass_dir: assets/css
